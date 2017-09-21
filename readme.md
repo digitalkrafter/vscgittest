@@ -1,4 +1,4 @@
 # This Is readme
-it is my intial comment of vscgit
+It is my intial comment of vscgit
 # Scecond Commit
-my commit happen second time
+My commit happen second time
